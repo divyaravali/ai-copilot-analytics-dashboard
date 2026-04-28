@@ -2,6 +2,8 @@
 
 A frontend analytics dashboard for monitoring AI copilot usage, reliability, latency, and user intent trends.
 
+**[Live Demo on Vercel →](https://ai-copilot-analytics-dashboard.vercel.app/)**
+
 ## Features
 
 - KPI cards for sessions, prompts, success rate, latency, and cost
